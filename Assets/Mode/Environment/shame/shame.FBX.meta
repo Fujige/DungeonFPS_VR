@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e7b906b0b45dbb040ada9e8d7976e3d2
+timeCreated: 1506046957
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Circle001
+    100004: Circle002
+    100006: Circle034
+    100008: Circle034_MeshPart0
+    100010: Circle034_MeshPart1
+    100012: Circle035
+    100014: Circle035_MeshPart0
+    100016: Circle035_MeshPart1
+    100018: Circle036
+    100020: Circle036_MeshPart0
+    100022: Circle036_MeshPart1
+    100024: Line001
+    100026: Line002
+    100028: Line003
+    100030: Rectangle001
+    100032: Rectangle002
+    100034: Rectangle003
+    100036: //RootNode
+    100038: Shape001
+    100040: Shape002
+    100042: Shape003
+    100044: Star001
+    100046: Torus001
+    100048: Torus002
+    400000: Box001
+    400002: Circle001
+    400004: Circle002
+    400006: Circle034
+    400008: Circle034_MeshPart0
+    400010: Circle034_MeshPart1
+    400012: Circle035
+    400014: Circle035_MeshPart0
+    400016: Circle035_MeshPart1
+    400018: Circle036
+    400020: Circle036_MeshPart0
+    400022: Circle036_MeshPart1
+    400024: Line001
+    400026: Line002
+    400028: Line003
+    400030: Rectangle001
+    400032: Rectangle002
+    400034: Rectangle003
+    400036: //RootNode
+    400038: Shape001
+    400040: Shape002
+    400042: Shape003
+    400044: Star001
+    400046: Torus001
+    400048: Torus002
+    2300000: Box001
+    2300002: Circle001
+    2300004: Circle002
+    2300006: Circle034_MeshPart0
+    2300008: Circle034_MeshPart1
+    2300010: Circle035_MeshPart0
+    2300012: Circle035_MeshPart1
+    2300014: Circle036_MeshPart0
+    2300016: Circle036_MeshPart1
+    2300018: Line001
+    2300020: Line002
+    2300022: Line003
+    2300024: Rectangle001
+    2300026: Rectangle002
+    2300028: Rectangle003
+    2300030: Star001
+    2300032: Torus001
+    2300034: Torus002
+    3300000: Box001
+    3300002: Circle001
+    3300004: Circle002
+    3300006: Circle034_MeshPart0
+    3300008: Circle034_MeshPart1
+    3300010: Circle035_MeshPart0
+    3300012: Circle035_MeshPart1
+    3300014: Circle036_MeshPart0
+    3300016: Circle036_MeshPart1
+    3300018: Line001
+    3300020: Line002
+    3300022: Line003
+    3300024: Rectangle001
+    3300026: Rectangle002
+    3300028: Rectangle003
+    3300030: Star001
+    3300032: Torus001
+    3300034: Torus002
+    4300000: Line001
+    4300002: Line002
+    4300004: Circle001
+    4300006: Line003
+    4300008: Circle002
+    4300010: Star001
+    4300012: Torus001
+    4300014: Rectangle001
+    4300016: Rectangle002
+    4300018: Rectangle003
+    4300020: Box001
+    4300022: Torus002
+    4300024: Circle034_MeshPart0
+    4300026: Circle034_MeshPart1
+    4300028: Circle035_MeshPart0
+    4300030: Circle035_MeshPart1
+    4300032: Circle036_MeshPart0
+    4300034: Circle036_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
